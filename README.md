@@ -21,19 +21,6 @@ Lyudmila Gorokhova (lyudmila.gorokhova@gmail.com)</br>
 For creating an own BRouter backend you need to download and install BRouter. You can do this in two ways. Either by downloading the complete source code from GitHub (https://github.com/abrensch/brouter) and compile it (Java 6 needed!) or downloading the precompiled one (http://brouter.de/brouter/revisions.html). The source code for BRouter frontend can also be found in GitHub (https://github.com/nrenner/brouter-web). Also the routing data have to be downloaded. For further information to this see point installation.
 Because the definition of no-go areas in BRouter is only possible by using circles, Open Route Service (http://openrouteservice.readthedocs.io/en/1.0/index.html, http://wiki.openstreetmap.org/wiki/OpenRouteService) is used additionally to enable this also for using polygons. Unfortunately this is only a service of the  University of Heidelberg. It is not possible to run it on your own machine, so you have to send requests to this and getting a response with the route.
 
-### Structure of project folders:
-YourRoute
-  Website
-    CSS               contains all CSS-files used in the website
-    HTML              contains all HTML-files used in the website
-    Images            contains all image-files used in the website
-    JS                contains all JS-files used in the website
-  brouter
-    profiles2         contains all routing profiles
-    segments4         contains an example of routing data and a hint how to download more of them
-    standalone        contains standalones for Linux and Windows
-    brouter-web
-
 ### Installation:
 1) Download and install BRouter like it is described in the BRouter-web readme-file. All the needed data can be found in these links (Recommend that you need outdated Java 6 for compiling this):
 
