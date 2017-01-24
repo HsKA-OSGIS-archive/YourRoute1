@@ -24,9 +24,9 @@ Because the definition of no-go areas in BRouter is only possible by using circl
 ### Installation:
 1) Download and install BRouter like it is described in the BRouter-web readme-file. All the needed data can be found in these links (Recommend that you need outdated Java 6 for compiling this):
 
-Backend: https://github.com/abrensch/brouter
-Frontend: https://github.com/nrenner/brouter-web
-Profile: https://github.com/poutnikl/Brouter-profiles
+Backend: https://github.com/abrensch/brouter</br>
+Frontend: https://github.com/nrenner/brouter-web</br>
+Profile: https://github.com/poutnikl/Brouter-profiles</br>
 
 If you do not have a version of Java 6 on your machine, you can also download a pre-compiled version of BRouter-backend here: http://brouter.de/brouter/revisions.html.
 
