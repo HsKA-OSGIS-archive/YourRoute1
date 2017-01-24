@@ -1,0 +1,5 @@
+Download the routing data you need from the following website:
+http://brouter.de/brouter/segments4/
+
+Please observe the world is divded into tiles of 5 degree of longitude and latitude.
+There is also an example for such a file inside this directory.
