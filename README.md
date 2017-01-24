@@ -13,9 +13,9 @@ Fabian Finkbeiner (fifa1015@hs-karlsruhe.de)</br>
 Lyudmila Gorokhova (lyudmila.gorokhova@gmail.com)</br>
 
 ### Software Used:
-•	BRouter (routing)
-•	OpenRouteService (routing)
-•	OpenStreetMap (map data)
+•	BRouter (routing)</br>
+•	OpenRouteService (routing)</br>
+•	OpenStreetMap (map data)</br>
 
 ### Data and data sources:
 For creating an own BRouter backend you need to download and install BRouter. You can do this in two ways. Either by downloading the complete source code from GitHub (https://github.com/abrensch/brouter) and compile it (Java 6 needed!) or downloading the precompiled one (http://brouter.de/brouter/revisions.html). The source code for BRouter frontend can also be found in GitHub (https://github.com/nrenner/brouter-web). Also the routing data have to be downloaded. For further information to this see point installation.
