@@ -6,11 +6,11 @@ This project was done in winter semester 2016/2017 by the virtual student-compan
 The aim of this work was to develope a web-application for crisis-routing. This includes on the one hand “normal” routing and on the other hand the definition of no-go areas, which are areas that should be avoided during the routing. That means if a computed route is passing through an area that should be avoided, the route has to be recomputed around that area. No-go areas can be defined by circles or polygons.The Routing itself done by BRouter and Open Route Service (ORS).
 
 ### Authors: 
-Alberto Rodrigo Martínez (alrodma4@gmail.com)
-Benedikt Futterer (fube1013@hs-karlsruhe.de)
-Chenfeng Liu (L605900745@gmail.com)   
-Fabian Finkbeiner (fifa1015@hs-karlsruhe.de)
-Lyudmila Gorokhova (lyudmila.gorokhova@gmail.com) 
+Alberto Rodrigo Martínez (alrodma4@gmail.com)</br>
+Benedikt Futterer (fube1013@hs-karlsruhe.de)</br>
+Chenfeng Liu (L605900745@gmail.com)</br>
+Fabian Finkbeiner (fifa1015@hs-karlsruhe.de)</br>
+Lyudmila Gorokhova (lyudmila.gorokhova@gmail.com)</br>
 
 ### Software Used:
 •	BRouter (routing)
