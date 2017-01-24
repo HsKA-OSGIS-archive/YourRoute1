@@ -1,0 +1,38 @@
+{
+  "name": "Leaflet.EasyButton",
+  "homepage": "https://github.com/CliffCloud/Leaflet.EasyButtons",
+  "authors": [
+    "atstp <dan.ll.montague@gmail.com>"
+  ],
+  "description": "Easily add Font Awesome control buttons to Leaflet maps with attached callbacks",
+  "main": [
+    "src/easy-button.js",
+    "src/easy-button.css"
+  ],
+  "dependencies": {
+    "leaflet": "~1.0.1"
+  },
+  "keywords": [
+    "Leaflet",
+    "map",
+    "button"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "2.0.0",
+  "_release": "2.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.0.0",
+    "commit": "b140cb5127674fef91bf58412249a0538990f2e0"
+  },
+  "_source": "https://github.com/CliffCloud/Leaflet.EasyButton.git",
+  "_target": "*",
+  "_originalSource": "Leaflet.EasyButton"
+}

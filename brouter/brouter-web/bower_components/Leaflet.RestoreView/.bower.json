@@ -1,0 +1,13 @@
+{
+  "name": "Leaflet.RestoreView",
+  "homepage": "https://github.com/makinacorpus/Leaflet.RestoreView",
+  "_release": "bdbdbae33c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bdbdbae33c4ac01df02fabe72c3b10388b0b696b"
+  },
+  "_source": "https://github.com/makinacorpus/Leaflet.RestoreView.git",
+  "_target": "master",
+  "_originalSource": "makinacorpus/Leaflet.RestoreView"
+}

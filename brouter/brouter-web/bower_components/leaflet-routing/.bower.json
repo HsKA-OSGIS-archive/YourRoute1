@@ -1,0 +1,13 @@
+{
+  "name": "leaflet-routing",
+  "homepage": "https://github.com/Turistforeningen/leaflet-routing",
+  "_release": "b7368272b0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "gh-pages",
+    "commit": "b7368272b0e32cd43f74e52cd47684297394f79e"
+  },
+  "_source": "https://github.com/Turistforeningen/leaflet-routing.git",
+  "_target": "gh-pages",
+  "_originalSource": "Turistforeningen/leaflet-routing"
+}
