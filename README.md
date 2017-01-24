@@ -49,7 +49,7 @@ python -m SimpleHTTPServer
 
 ### Functionalities:
 - Map window: Which contains two map windows, one for BRouter and the other one for OpenRouteService.
--	Definition of no-go areas by drawing circles or polygons
+-	Definition of no-go areas by drawing circles or polygons</br>
   (use BRouter to define no-go areas by circles or use OpenRouteService to define no-go areas by polygons) 
 - Show the current position of the client
 - Different alternative routes
